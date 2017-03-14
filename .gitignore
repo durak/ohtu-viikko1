@@ -1,0 +1,4 @@
+# ignore directory build
+/build/
+# ignore .tmp files in root
+/*.tmp
