@@ -1,9 +1,5 @@
 package ohtu.verkkokauppa;
 
-import org.springframework.stereotype.Component;
-import org.springframework.beans.factory.annotation.Autowired;
-
-@Component
 public class Kauppa {
 
     private Storage varasto;
