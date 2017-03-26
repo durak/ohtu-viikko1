@@ -3,3 +3,5 @@
 # ignore .tmp files in root
 /*.tmp
 /.nb-gradle/
+/Verkkokauppa1/.nb-gradle/
+/Verkkokauppa1/build/
